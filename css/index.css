@@ -1,0 +1,27 @@
+
+.tribus{
+    display: flex;
+    width: 100%;
+    max-width: 1100px;    
+}
+.campers{
+    
+    width: 100%;
+    margin:20px;
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: default;
+    transition: all 400ms ease;
+}
+.campers:hover{
+    box-shadow: 5px 5px 20px rbga(0,0,0,0.4) ;
+    transform: translate(-3%);
+}
+.info{
+    padding: 15px;
+    text-align: center;
+}
+.img{
+    height: 200px;
+    width: 100%;
+}

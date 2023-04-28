@@ -10,7 +10,7 @@
                 "edad" : 17,
                 "ingles" : "A1",
                 "rol" : "Leader",
-                "img" : ""
+                "img" : "image/pokemon/bulbasaur.png"
             },
             {
                 "id":2,
@@ -18,8 +18,33 @@
                 "edad" : 17,
                 "ingles" : "A1",
                 "rol" : "Leader Marketing",
-                "img" : ""
+                "img" : "image/pokemon/charmander.png"
+                
+            }
+        ]
+    },
+    {
+        "idTribu":2,
+        "tribu" : "Tribu 2",
+        "puntos" : 400000,
+        "campers" : [
+            {
+                "id":1,
+                "nombre" : "Camper A",
+                "edad" : 17,
+                "ingles" : "A1",
+                "rol" : "Leader",
+                "img" : "image/pokemon/bulbasaur.png"
+            },
+            {
+                "id":2,
+                "nombre" : "Camper B",
+                "edad" : 17,
+                "ingles" : "A1",
+                "rol" : "Leader Marketing",
+                "img" : "image/pokemon/charmander.png"
             }
         ]
     }
+ 
 ]
